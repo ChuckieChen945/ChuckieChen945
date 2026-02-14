@@ -1,10 +1,6 @@
 ## About me
 
-技能：
-
-* python
-* 爬虫
-* 数据相关
+主要写 Python
 
 <!--
 **ChuckieChen945/ChuckieChen945** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
